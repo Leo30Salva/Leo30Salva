@@ -2,8 +2,17 @@
 
 ## (ツ) Descripción  
 
-I am a computer science student and I am currently finishing DAW.
-To talk a little about myself, I love skating, traveling, playing video games, and I am currently in the process of starting to learn to play the piano.
+Soy estudiante de informática y actualmente estoy terminando DAW. 
+Para hablar un poco sobre mí, me encanta patinar, viajar, jugar videojuegos y actualmente estoy en el proceso de comenzar a aprender a tocar el piano.
+
+---
+
+> "Just because you see a smile don't you think you know what's going on underneath, a smile is a valuable tool my dear, it inspires youre friends, keeps your enemies guessing, and insures no matter what happens in your way, your the one in control."  
+>  
+> **- Alastor**
+
+---
+
 
 ## 📖 Educación
 
