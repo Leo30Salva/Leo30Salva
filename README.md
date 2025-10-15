@@ -1,3 +1,5 @@
+<img src="chainsaw-man-pochita.gif" width="100%" height="350px" alt="Mi GIF">
+
 # Salva Lozano
 
 ## (ツ) Descripción  
@@ -12,8 +14,6 @@ Para hablar un poco sobre mí, me encanta patinar, viajar, jugar videojuegos y a
 > **- Alastor**
 
 ---
-
-
 ## 📖 Educación
 
 - *2023-Presente* Grado superior DAM (Desarrollo de Aplicaciones Multiplataforma)
@@ -25,6 +25,12 @@ Para hablar un poco sobre mí, me encanta patinar, viajar, jugar videojuegos y a
 - Lenguajes de programación: Java, Python, Bash, PowerShell y Kodlin (actualmente aprendiendo).
 - Lenguaje de composición tipográfico: Markdown.
 - Entorno de programación: Visual Studio Code.
+
+<br>
+
+<div align="center">
+	<img src="computer-cat.gif" width="55%" height="200px" alt="Gato teclado">
+</div>
 
 ## 🚀🙍‍♂️ Habilidades personales
 
@@ -60,11 +66,13 @@ exit 0
 
 ```
 
+<br>
 
-
-
-
-
+<div align="center">
+	<img src="giphy.gif" width="25%" height="350px" alt="Bicho raro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="pfp-glitch.gif" width="25%" height="350px" alt="Trozo pizza">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="404.gif" width="25%" height="350px" alt="Error 404">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 <!--
 **Leo30Salva/Leo30Salva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
